@@ -3,7 +3,8 @@
   flex-flow: column nowrap;
   margin: 5px 0;
   padding: 5px;
-  font-family: 'Roboto'
+  font-family: 'Roboto';
+  min-height: min-content;
 }
 
 .message-id{
