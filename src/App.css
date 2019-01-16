@@ -1,6 +1,6 @@
 .App {
-  width: 50%;
-  height: 50%;
+  width: 75%;
+  height: 75%;
   border: 1px solid #e0e0e0;
   display: flex;
   flex-flow: column nowrap;
