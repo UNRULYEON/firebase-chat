@@ -1,0 +1,15 @@
+.message-container{
+  display: flex;
+  flex-flow: column nowrap;
+  margin: 5px 0;
+  padding: 5px;
+  font-family: 'Roboto'
+}
+
+.message-id{
+  font-size: .9em;
+  color: grey;
+}
+
+.message{
+}
