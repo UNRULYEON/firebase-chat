@@ -38,7 +38,7 @@ The chat app will open automatically in your default browser.
 
 ## Built With
 
-* [React]([http://www.dropwizard.io/1.0.2/docs/](https://reactjs.org/)) - Frontend
+* [React](https://reactjs.org/) - Frontend
 * [Firebase](https://firebase.google.com/) - Backend
 
 ## Authors
