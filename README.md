@@ -34,6 +34,8 @@ The chat app will open automatically in your default browser.
 
 ## Deployment
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Built With
 
 * [React]([http://www.dropwizard.io/1.0.2/docs/](https://reactjs.org/)) - Frontend
