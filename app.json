@@ -1,0 +1,6 @@
+{
+  "name": "Firebase Chat",
+  "description": "A real-time chat app build with React and Firebase",
+  "repository": "https://github.com/UNRULYEON/firebase-chat",
+  "keywords": ["react", "firebase"]
+}
